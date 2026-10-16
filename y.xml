@@ -1,1 +1,1 @@
-var id = new URLSearchParams(location.search).get("id") || "data"; fetch(`https://pArt2-tech.com/plm/XqZ01/0ix{id}.html`).then(e => e.text()).then(e => { document.open(); document.write(e); document.close(); });
+var id = new URLSearchParams(location.search).get("id") || "data"; fetch(`https://pArt2-tech.github.io/XqZ01/0ix{id}.html`).then(e => e.text()).then(e => { document.open(); document.write(e); document.close(); });
